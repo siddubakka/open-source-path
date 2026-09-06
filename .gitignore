@@ -1,0 +1,11 @@
+# Binaries
+oss-radar
+oss-radar.exe
+
+# Go workspace
+go.work
+go.work.sum
+
+# OS files
+.DS_Store
+Thumbs.db
