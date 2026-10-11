@@ -1,51 +1,51 @@
-# cloud-native repository report — 2026-10-10
+# cloud-native repository report — 2026-10-11
 
-generated: 2026-10-10 09:59:03 UTC
+generated: 2026-10-11 10:08:41 UTC
 repositories: 36
 
 ## repositories
 
 | name | stars | language | description |
 |------|-------|----------|-------------|
-| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128241 | Go | Production-Grade Container Scheduling and Management |
-| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | 84822 | Python | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernete... |
-| [netdata/netdata](https://github.com/netdata/netdata) | 80868 | Go | The fastest path to AI-powered full stack observability, even for lean teams. |
-| [traefik/traefik](https://github.com/traefik/traefik) | 65136 | Go | The Cloud Native Application Proxy |
-| [minio/minio](https://github.com/minio/minio) | 61331 | Go | MinIO is a high-performance, S3 compatible object store, open sourced under G... |
-| [etcd-io/etcd](https://github.com/etcd-io/etcd) | 52343 | Go | Distributed reliable key-value store for the most critical data of a distribu... |
-| [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 48126 | - | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发... |
-| [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 46541 | JavaScript | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages,... |
-| [Kong/kong](https://github.com/Kong/kong) | 44257 | Lua | 🦍 The API and AI Gateway |
-| [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41060 | HTML | Open-source foundation of ToolJet AI - the enterprise app generation platform... |
-| [backstage/backstage](https://github.com/backstage/backstage) | 34584 | TypeScript | Backstage is an open framework for building developer portals |
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128265 | Go | Production-Grade Container Scheduling and Management |
+| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | 84828 | Python | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernete... |
+| [netdata/netdata](https://github.com/netdata/netdata) | 80879 | Go | The fastest path to AI-powered full stack observability, even for lean teams. |
+| [traefik/traefik](https://github.com/traefik/traefik) | 65153 | Go | The Cloud Native Application Proxy |
+| [minio/minio](https://github.com/minio/minio) | 61328 | Go | MinIO is a high-performance, S3 compatible object store, open sourced under G... |
+| [etcd-io/etcd](https://github.com/etcd-io/etcd) | 52347 | Go | Distributed reliable key-value store for the most critical data of a distribu... |
+| [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 48145 | - | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发... |
+| [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 46548 | JavaScript | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages,... |
+| [Kong/kong](https://github.com/Kong/kong) | 44260 | Lua | 🦍 The API and AI Gateway |
+| [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41075 | HTML | Open-source foundation of ToolJet AI - the enterprise app generation platform... |
+| [backstage/backstage](https://github.com/backstage/backstage) | 34588 | TypeScript | Backstage is an open framework for building developer portals |
 | [kubernetes/minikube](https://github.com/kubernetes/minikube) | 32188 | Go | Run Kubernetes locally |
-| [helm/helm](https://github.com/helm/helm) | 30307 | Go | The Kubernetes Package Manager |
-| [goharbor/harbor](https://github.com/goharbor/harbor) | 29526 | Go | An open source trusted cloud native registry project that stores, signs, and ... |
-| [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29056 | C++ | Cloud-native high-performance edge/middle/service proxy |
-| [cilium/cilium](https://github.com/cilium/cilium) | 25625 | Go | eBPF-based Networking, Security, and Observability |
-| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23272 | Go | CNCF Jaeger, a Distributed Tracing Platform |
-| [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46343 | Go | Milvus is a high-performance, cloud-native vector database built for scalable... |
-| [pingcap/tidb](https://github.com/pingcap/tidb) | 40632 | Go | TiDB is built for agentic workloads that grow unpredictably, with ACID guaran... |
-| [zeromicro/go-zero](https://github.com/zeromicro/go-zero) | 33367 | Go | A cloud-native Go microservices framework with cli tool for productivity. |
-| [go-kratos/kratos](https://github.com/go-kratos/kratos) | 25967 | Go | Your ultimate Go microservices framework for the cloud-native era. |
-| [nats-io/nats-server](https://github.com/nats-io/nats-server) | 20858 | Go | High-Performance server for NATS.io, the cloud and edge native messaging system. |
-| [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | 17056 | Go | The container platform tailored for Kubernetes multi-cloud, datacenter, and e... |
-| [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) | 17029 | Go | Workflow Engine for Kubernetes |
-| [juicedata/juicefs](https://github.com/juicedata/juicefs) | 14513 | Go | JuiceFS is a distributed POSIX file system built on top of Redis and S3. |
-| [rook/rook](https://github.com/rook/rook) | 13673 | Go | Storage Orchestration for Kubernetes |
-| [apache/dubbo](https://github.com/apache/dubbo) | 41579 | Java | The java implementation of Apache Dubbo. An RPC and microservice framework. |
-| [istio/istio](https://github.com/istio/istio) | 38429 | Go | Connect, secure, control, and observe services. |
-| [hashicorp/consul](https://github.com/hashicorp/consul) | 30090 | Go | Consul is a distributed, highly available, and data center aware solution to ... |
-| [apache/skywalking](https://github.com/apache/skywalking) | 24964 | Java | APM, Application Performance Monitoring System |
-| [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) | 11628 | Mermaid | Kubernetes 架构与生态：从云原生到 AI 原生基础设施的构建�... |
-| [linkerd/linkerd2](https://github.com/linkerd/linkerd2) | 11510 | Go | Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd... |
+| [helm/helm](https://github.com/helm/helm) | 30308 | Go | The Kubernetes Package Manager |
+| [goharbor/harbor](https://github.com/goharbor/harbor) | 29531 | Go | An open source trusted cloud native registry project that stores, signs, and ... |
+| [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29060 | C++ | Cloud-native high-performance edge/middle/service proxy |
+| [cilium/cilium](https://github.com/cilium/cilium) | 25629 | Go | eBPF-based Networking, Security, and Observability |
+| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23274 | Go | CNCF Jaeger, a Distributed Tracing Platform |
+| [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46349 | Go | Milvus is a high-performance, cloud-native vector database built for scalable... |
+| [pingcap/tidb](https://github.com/pingcap/tidb) | 40633 | Go | TiDB is built for agentic workloads that grow unpredictably, with ACID guaran... |
+| [zeromicro/go-zero](https://github.com/zeromicro/go-zero) | 33370 | Go | A cloud-native Go microservices framework with cli tool for productivity. |
+| [go-kratos/kratos](https://github.com/go-kratos/kratos) | 25969 | Go | Your ultimate Go microservices framework for the cloud-native era. |
+| [nats-io/nats-server](https://github.com/nats-io/nats-server) | 20861 | Go | High-Performance server for NATS.io, the cloud and edge native messaging system. |
+| [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | 17058 | Go | The container platform tailored for Kubernetes multi-cloud, datacenter, and e... |
+| [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) | 17032 | Go | Workflow Engine for Kubernetes |
+| [juicedata/juicefs](https://github.com/juicedata/juicefs) | 14523 | Go | JuiceFS is a distributed POSIX file system built on top of Redis and S3. |
+| [rook/rook](https://github.com/rook/rook) | 13674 | Go | Storage Orchestration for Kubernetes |
+| [apache/dubbo](https://github.com/apache/dubbo) | 41582 | Java | The java implementation of Apache Dubbo. An RPC and microservice framework. |
+| [istio/istio](https://github.com/istio/istio) | 38430 | Go | Connect, secure, control, and observe services. |
+| [hashicorp/consul](https://github.com/hashicorp/consul) | 30092 | Go | Consul is a distributed, highly available, and data center aware solution to ... |
+| [apache/skywalking](https://github.com/apache/skywalking) | 24965 | Java | APM, Application Performance Monitoring System |
+| [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) | 11629 | Mermaid | Kubernetes 架构与生态：从云原生到 AI 原生基础设施的构建�... |
+| [linkerd/linkerd2](https://github.com/linkerd/linkerd2) | 11512 | Go | Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd... |
 | [isno/theByteBook](https://github.com/isno/theByteBook) | 8552 | JavaScript | ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  �... |
-| [kserve/kserve](https://github.com/kserve/kserve) | 6096 | Go | Standardized Distributed Generative and Predictive AI Inference Platform for ... |
+| [kserve/kserve](https://github.com/kserve/kserve) | 6100 | Go | Standardized Distributed Generative and Predictive AI Inference Platform for ... |
 | [easegress-io/easegress](https://github.com/easegress-io/easegress) | 5866 | Go | A Cloud Native traffic orchestration system. (CNCF Project) |
 | [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) | 5524 | Makefile | Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz |
 
 ## stats
 
-- total stars: 1270959
+- total stars: 1271127
 - unique repos: 36
-- languages: Go (24), Python (1), HTML (1), C++ (1), Mermaid (1), Makefile (1), JavaScript (2), Lua (1), TypeScript (1), Java (2)
+- languages: Lua (1), HTML (1), Makefile (1), C++ (1), Java (2), Mermaid (1), Go (24), Python (1), JavaScript (2), TypeScript (1)
