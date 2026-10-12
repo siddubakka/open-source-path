@@ -27,9 +27,14 @@ GITHUB_TOKEN=your_token ./oss-radar
 
 # Run without token (unauthenticated, 60 req/hour limit)
 ./oss-radar
+
+# Options
+./oss-radar -out reports -per-page 10 -timeout 60s
+./oss-radar -json   # also write reports/YYYY-MM-DD.json
 ```
 
-The tool writes output to:
+The tool fetches queries concurrently, handles GitHub rate limiting
+with a clear error, sorts results by stars, and writes output to:
 - `reports/YYYY-MM-DD.md` — dated archive
 - `reports/latest.md` — always the most recent report
 
